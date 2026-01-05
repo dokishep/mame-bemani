@@ -9,7 +9,7 @@
 // Names
 // spell-checker: words Ebers, Moll
 
-// FIXME: Remove QBJT_switch - no more use
+// FIXME: Remove QBJT_switch - no more usee
 
 namespace netlist::analog
 {
